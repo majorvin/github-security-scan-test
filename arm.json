@@ -6,6 +6,7 @@
       "type": "string",
       "allowedValues": [
         "Australia East",
+        "d",
         "Brazil South",
         "Canada Central",
         "Central US",
